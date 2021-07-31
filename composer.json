@@ -1,0 +1,16 @@
+{
+    "name": "akinuri/ci3-orm",
+    "type": "library",
+    "description": "An ORM for CI 3.",
+    "keywords": ["database", "orm", "codeigniter"],
+    "homepage": "https://github.com/akinuri/ci3-orm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noreh AD",
+            "email": "a***h@gmail.com",
+            "homepage": "https://github.com/akinuri",
+            "role": "Developer"
+        }
+    ],
+}

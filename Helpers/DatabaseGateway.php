@@ -1,6 +1,6 @@
 <?php
 
-namespace Akinuri\CI3_ORM\Base;
+namespace Akinuri\CI3_ORM\Helpers;
 
 use Akinuri\Libraries\{
     Debug,
@@ -39,6 +39,8 @@ class DatabaseGateway {
      * Generic SELECT method.
      * 
      * WHERE processing may need further improvement.
+     * 
+     * TODO: explain the reason of this method
      * 
      * @link https://dev.mysql.com/doc/refman/5.7/en/select.html
      * @link https://mariadb.com/kb/en/select/

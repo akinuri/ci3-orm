@@ -2,7 +2,7 @@
 
 namespace Akinuri\CI3_ORM\AbstractEntities;
 
-use Akinuri\CI3_ORM\Base\{
+use Akinuri\CI3_ORM\BaseEntity\{
     DatabaseEntity
 };
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Akinuri\CI3_ORM\Helpers;
+namespace Akinuri\CI3\ORM\ActiveRecord\Helpers;
 
 use Akinuri\Libraries\{
     Debug,

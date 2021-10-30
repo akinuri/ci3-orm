@@ -1,8 +1,10 @@
 <?php
 
-namespace Akinuri\CI3_ORM\Helpers;
+namespace Akinuri\CI3\ORM\ActiveRecord\Helpers;
 
-abstract class EntityFactory {
+final class EntityFactory {
+    
+    private function __construct() {}
     
     /**
      * Creates an entity (domain object) and populates it with the data.

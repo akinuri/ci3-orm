@@ -2,7 +2,7 @@
     "name": "akinuri/ci3-orm",
     "type": "library",
     "description": "An ORM for CI 3.",
-    "keywords": ["database", "orm", "codeigniter"],
+    "keywords": ["database", "orm", "codeigniter", "active record", "data mapper"],
     "homepage": "https://github.com/akinuri/ci3-orm",
     "license": "MIT",
     "authors": [
